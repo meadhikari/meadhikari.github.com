@@ -1,0 +1,36 @@
+---
+layout: showcaseitem
+title: Nepali (नेपाली) Input Extension (for Firefox)
+subtitle: Firefox Extension which makes entering नेपाली characters as easy as it can get !
+permalink: /showcase/nepali-input-extension/
+timespan : November 2011 - Current
+keywords: Chrome, Addon, Nepali, नेपाली, Romanized, Keyboard Layout
+---
+
+{{ page.title }}
+----------------
+### {{ page.subtitle }} ( {{ page.timespan }} )
+
+In 4 easy steps, you will be typing in Nepali (नेपाली)... simple as that ! The only downside is that it ONLY works in Firefox.
+
+1) <a href='http://www.getfirefox.com/' alt='Get Firefox' target="_blank"> Download and Install Firefox </a>
+
+2) Use Firefox and <a href='https://addons.mozilla.org/en-US/firefox/addon/11353/' alt='Nepali (नेपाली) Input Extension (for Firefox)' target="_blank"> install the extension from official Mozilla add-ons page.</a>   
+Press "Add to Firefox" button in the page that opens after clicking the above link. Make sure you're using Firefox to visit the link.
+
+3) Press "Ctrl+Alt+Space" ( "Command+Option+Space" on a Mac ) to switch between नेपाली and normal language input.   
+The add-on icon(Nepali flag with a green check: enabled / red cross: disabled) reflects accordingly in the right corner of status-bar.   
+![Nepali Input Extension Switcher](/images/npiext-switch.jpg)   
+(In Firefox 4, enable the Add-on bar to see it. To enable, Menubar : View > Toolbar > Add-on Bar)
+
+4) Print the Keyboard Layout and keep it aside as a reference.   
+Click on the add-on icon(the flag in the status/addon bar) and you will get the Keyboard Map/Layout, originally developed by the [Madan Puraskar Pustakalaya](http://www.madanpuraskar.org/). Do care about the environment before printing it though !
+![Print the Keyboard Layout](/images/npiext-map.jpg)   
+
+Optionally, do check this amazing <a href="http://www.jwalanta.com.np/?q=ffdictnp">Nepali Spell-check Dictionary for Firefox</a> developed by <a href="http://twitter.com/jwalanta">Jwalanta Shrestha</a>. Highly recommended है ।
+
+And if you like it, do spread it around and maybe buy me a beer sometime if we meet ! Oh yes, feel free to [browse the repository](https://github.com/suvash/NepInputFFExt).
+
+टाटा !
+
+<p class="keywords">Keywords : {{ page.keywords }}</p>
